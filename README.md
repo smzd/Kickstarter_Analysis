@@ -48,6 +48,5 @@ Fig: Theater Outcomes Based on Launch Date
 
 There is no mention of demographic on the Kickstarter. For example which gender is funding for the theater programs. Also, knowing the ages of the people will be helpful as to target the specific group to reach the goal of funding. 
 
-Lastly, what type of campaign has been used for advertising the plays. Where they advised such as in the social media, newspapers, flyers, etc., knowing that would have been very helpful to understand how to get better funding and the right way to conduct a successful play.
-
+Lastly, what type of Ad campaign has been used for advertising the plays, such as in the social media, newspapers, flyers, etc.? Knowing that would have been very helpful in understanding how to meet the funding goals.
 
