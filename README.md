@@ -46,8 +46,8 @@ In the project, we mainly focused on United States data. I recommend analyzing d
 ![](https://github.com/smzd/Kickstarter_Analysis/blob/main/Resources/Theater%20Outcomes%20Based%20on%20Country.png)
 Fig: Theater Outcomes Based on Launch Date
 
-There is no mention of demographic on the Kickstarter. For which gender is funding for the theater program that Louise is interested in exploring. Also, knowing the ages of the people will be helpful as to target the specific group to reach the goal of funding. 
+There is no mention of demographic on the Kickstarter. For example which gender is funding for the theater programs. Also, knowing the ages of the people will be helpful as to target the specific group to reach the goal of funding. 
 
-Also, what type of campaign has been used for advertising the plays. Where they advised such as in the social media, newspapers, flyers, etc., knowing that would have been very helpful to understand how to get better funding and the right way to conduct a successful play.
+Lastly, what type of campaign has been used for advertising the plays. Where they advised such as in the social media, newspapers, flyers, etc., knowing that would have been very helpful to understand how to get better funding and the right way to conduct a successful play.
 
 
