@@ -1,6 +1,4 @@
-    
-                                                 #Kickstarter Analysis With Excel
-                                                 
+                                             
                                                        #Overview of Project
                                                          
 This analysis is real-life campaign data from different Kickstarter projects around the world. The raw data has many categories; some essential types are pledge funding, goal funding, country, outcomes, and other categories. This project takes these categories and approximately 4100 data points to clean and analyze to help Louise with her Kickstarter campaign.
