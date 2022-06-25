@@ -19,10 +19,10 @@ Pivot Table and chart: Pivot Chart helped to take desired data points of specifi
 ![](https://github.com/smzd/Kickstarter_Analysis/blob/main/Resources/pivotChart.png)
 fig:Pivot Chart and Table
 
-                                                 #Challenges and Difficulties
+                                                #Challenges and Difficulties
 The challenge is starting the analysis by asking questions, building a roadmap, and figuring out what the requestor of the project is seeking from the study. How to make the data neat and what tools to use to analyze the data can be overwhelming. But a well-defined written roadmap helped me break down the problems and overcome them. 
   
-                                                          #Results
+                                                     #Results
 Theater outcomes Based on Launch Date: From the chart, we can see that the highest number of plays were produced during May. This concludes that summertime is the more play produced than the rest of the year. The graph depicts that the time May-June has the highest number of successful theater outcomes. 
 
 ![](https://github.com/smzd/Kickstarter_Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) 
@@ -37,7 +37,7 @@ Fig: Outcomes Based on Goal
 
 As the funding goal becomes larger $45000-$49999 success rate is zero, the failure rate is 100%, and the $50000 or more failed rate is over 80%, so the success rate is less than 20%.
 
-                                                            #Summary
+                                                       #Summary
                                                                     
 In the project, we mainly focused on United States data. I recommend analyzing different countries' data to see which country is prosperous and why. For example, the chart below shows other counties' theaters' success and failure rates. Although the US produced more total theater projects than any country, GB has more successful theater outcomes. 
 
